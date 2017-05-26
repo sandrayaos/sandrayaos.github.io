@@ -1,0 +1,51 @@
+.title {
+    font-size: 300%;
+    font-family: 'Oswald', sans-serif;
+}
+
+.box {
+	width: 80%;
+	margin: auto;
+	display: none;
+}
+
+.option {
+	width: 33%;
+	float: left;
+	text-align: center;
+	padding-bottom: 50px;
+}
+
+#header {
+	display: block;
+}
+
+#sort {
+	display: block;
+}
+
+body {
+	 font-family: 'Oswald', sans-serif;
+}
+.types {
+	padding-top: 30px;
+	padding-bottom: 30px;
+	text-align: center;
+}
+.sorttype {
+	width: 150px;
+	display: inline-block;
+	text-align: center;
+}
+
+.numofsteps {
+	padding-bottom: 30px;
+}
+
+.numinput {
+	display: inline-block;
+	text-align: center;
+}
+.top {
+	padding-top: 30px;
+}
